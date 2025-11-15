@@ -1,2 +1,1 @@
-# vibemaxxing
-Projects made for vibe maxxing
+# vibemaxxing @CMU
